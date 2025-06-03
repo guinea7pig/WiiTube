@@ -20,7 +20,7 @@
 int main(void) {
     	// Initialise the Graphics & Video subsystems
 	GRRLIB_Init();
-        printf("welcom to wiitube"
+        printf("welcom to wiitube")
 	WPAD_Init();
 	
 
