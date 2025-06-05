@@ -5,6 +5,15 @@
 #include <grrlib.h>
 #include <wiiuse/wpad.h>
 
+/*
+	
+	main.c - Main source file.
+
+   	Sep 2025, guinea7pig
+
+*/
+
+
 #define WHITE 0xFFFFFFFF  //do in need to put my font png there
 		      // I would do that if I were you. - Toad
 
